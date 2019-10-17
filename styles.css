@@ -1,0 +1,63 @@
+#nav {
+    margin-left: 42%;
+    font-style: Allerta;
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background: skyblue;
+}
+
+#img {
+    border-radius: 500%;
+    height: 400px;
+    display: block;
+}
+
+#about {
+    display: flex;
+    padding: 4%;
+    font-size: 30px;
+    height: 100vh;
+}
+
+#project {
+    height: 100vh;
+}
+
+#project img {
+    width: 500px;
+    height: 400px;
+    display: flex;
+    margin: 0 auto;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+}
+
+#contact p {
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#contact ul li {
+    text-align: center;
+    font-size: 30px;
+    list-style-type: none;
+    font-weight: 600;
+}
+
+.header {
+    font-size: 50px;
+    text-align: center;
+}
