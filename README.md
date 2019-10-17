@@ -17,4 +17,5 @@ This is a school project that basically describes about me.
 - Email: loisemuthoni01@gmail.com
 
 ## Licence
+copyright (c)2019 Loise Muthoni
 
