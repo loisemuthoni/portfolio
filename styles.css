@@ -38,6 +38,20 @@ body {
     margin: 0 auto;
 }
 
+#project-link {
+    position: relative;
+}
+
+#project a {
+    position: abdolute;
+    top: 0;
+    left: 0;
+}
+
+#project img:hover {
+    cursor: pointer;
+}
+
 h2 {
     font-size: 50px;
     text-align: center;

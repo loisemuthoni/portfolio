@@ -1,6 +1,6 @@
 # MY PORTFOLIO
 
-## AUTHOR
+## Author
 - LOISE MUTHONI
 
 ## Description
