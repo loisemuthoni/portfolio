@@ -40,12 +40,14 @@ body {
 #project img {
     width: 500px;
     height: 400px;
-    display: flex;
-    margin: 0 auto;
+    padding-right: 40px;
 }
 
 #project-link {
-    position: relative;
+    display: flex;
+    margin: 0 auto;
+    display: flex;
+    width: 50%;
 }
 
 #project a {
