@@ -28,7 +28,7 @@ a {
 }
 
 a:hover {
-    color: bisque;
+    color: purple;
 }
 
 h1 {
@@ -52,7 +52,6 @@ body {
     display: flex;
     padding: 4%;
     font-size: 30px;
-    height: 85vh;
 }
 
 #project h2 {
@@ -66,18 +65,15 @@ body {
 #project img {
     width: 500px;
     height: 400px;
-    padding-right: 40px;
 }
 
 #project-link {
     display: flex;
     margin: 0 auto;
-    display: flex;
     width: 50%;
 }
 
 #project a {
-    position: abdolute;
     top: 0;
     left: 0;
 }
@@ -88,7 +84,8 @@ body {
 
 #project p {
     text-align: center;
-    font-size: 30px;
+    font-size: 33px;
+    padding: 4%;
 }
 
 h2 {
