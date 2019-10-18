@@ -156,7 +156,7 @@ input[type="text"] {
 /* Formatting button */
 
 .btn {
-    background: red;
+    background: darkblue;
     padding: 5px 20px;
     border-radius: 4px;
     text-align: center;
@@ -168,4 +168,14 @@ input[type="text"] {
 
 textarea {
     width: 100%;
+}
+
+#footer {
+    text-align: center;
+    color: darkblue;
+    font-size: 30px;
+}
+
+#p1 {
+    color: mediumblue;
 }
