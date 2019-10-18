@@ -1,9 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 #nav {
-    margin-left: 42%;
     font-family: sans-serif;
     font-size: 34px;
     font-weight: bold;
     color: white;
+    position: fixed;
+    background: #fff;
+    width: 100%;
+    padding: 20px;
+}
+
+#nav-links {
+    width: 30%;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+    color: #000;
+    display: inline-block;
+    margin-right: 10px;
 }
 
 a:hover {
@@ -14,6 +35,7 @@ h1 {
     text-align: center;
     font-size: 70px;
     text-shadow: 3px 2px purple;
+    padding-top: 10%;
 }
 
 body {
@@ -30,7 +52,11 @@ body {
     display: flex;
     padding: 4%;
     font-size: 30px;
-    height: 60vh;
+    height: 100vh;
+}
+
+#project h2 {
+    padding: 5%;
 }
 
 #project {
@@ -68,6 +94,11 @@ body {
 h2 {
     font-size: 50px;
     text-align: center;
+    padding: 2%;
+}
+
+#contact {
+    height: 100vh;
 }
 
 #contact p {
@@ -87,4 +118,46 @@ h2 {
 .header {
     font-size: 50px;
     text-align: center;
+    padding: 5%;
+}
+
+
+/* Styles for the form */
+
+#form {
+    font-size: 30px;
+    width: 20%;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin-top: 20px;
+}
+
+
+/* Styles for the inputs  */
+
+input[type="text"] {
+    padding: 10px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+
+/* Formatting button */
+
+.btn {
+    background: red;
+    padding: 5px 20px;
+    border-radius: 4px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    text-transform: uppercase;
+    width: 50%;
+}
+
+textarea {
+    width: 100%;
 }
