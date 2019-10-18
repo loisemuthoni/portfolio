@@ -101,11 +101,20 @@ h2 {
     height: 100vh;
 }
 
+#contact-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 72%;
+    margin: 0 auto;
+}
+
 #contact p {
     text-align: center;
-    font-size: 30px;
+    font-size: 35px;
     font-family: sans-serif;
     font-weight: bold;
+    line-height: 2em;
 }
 
 #contact ul li {
@@ -126,8 +135,7 @@ h2 {
 
 #form {
     font-size: 30px;
-    width: 20%;
-    margin: 0 auto;
+    width: 40%;
 }
 
 label {
