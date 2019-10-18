@@ -52,7 +52,7 @@ body {
     display: flex;
     padding: 4%;
     font-size: 30px;
-    height: 100vh;
+    height: 85vh;
 }
 
 #project h2 {
@@ -60,7 +60,7 @@ body {
 }
 
 #project {
-    height: 100vh;
+    height: 90vh;
 }
 
 #project img {
@@ -98,7 +98,7 @@ h2 {
 }
 
 #contact {
-    height: 100vh;
+    height: 82vh;
 }
 
 #contact-flex {
