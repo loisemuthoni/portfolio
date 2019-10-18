@@ -4,7 +4,7 @@
 - LOISE MUTHONI
 
 ## Description
-This is a school project that basically describes about me.
+This is a school project that basically describes about me and my interest.
 
 ## Set Up Instructions
 - Must have internet connection
@@ -12,6 +12,10 @@ This is a school project that basically describes about me.
 
 ## Known Bugs
 - Currently there are no known bugs
+
+## Technology Used
+- HTML
+- CSS
 
 ## Support and Contact Details
 - Email: loisemuthoni01@gmail.com
