@@ -8,26 +8,29 @@
     font-family: sans-serif;
     font-size: 34px;
     font-weight: bold;
-    color: white;
+    color: blue;
     position: fixed;
     background: #fff;
     width: 100%;
     padding: 20px;
 }
 
-#nav-links {
-    width: 30%;
-    margin: 0 auto;
+#nav-links ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
 }
 
-a {
+#nav-links ul li a {
+    width: 30%;
+    margin: 0 auto;
     text-decoration: none;
     color: black;
-    display: inline-block;
+    text-align: center;
     margin-right: 10px;
 }
 
-a:hover {
+#nav-links ul li a:hover {
     color: purple;
 }
 
@@ -153,7 +156,7 @@ input[type="text"] {
 /* Formatting button */
 
 .btn {
-    background: rgb(141, 4, 141);
+    background: palevioletred;
     padding: 5px 20px;
     border-radius: 4px;
     text-align: center;
