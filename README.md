@@ -20,7 +20,7 @@ This is a school project that basically describes about me and my interest.
 ## Support and Contact Details
 - Email: loisemuthoni01@gmail.com
 
-## live link
+## Live link
 -https://loisemuthoni.github.io/portfolio/
 
 ## Licence
